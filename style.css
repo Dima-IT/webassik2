@@ -190,7 +190,7 @@ body {
     margin-top: 40px;
 }
 
-/* Header - Flexbox */
+
 
 .portfolio-header {
     display: flex;
@@ -217,7 +217,7 @@ body {
     text-decoration: none;
 }
 
-/* Main - Grid */
+
 
 .portfolio-main {
     display: grid;
@@ -228,7 +228,7 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Projects */
+
 
 .projects {
     display: grid;
@@ -259,7 +259,7 @@ body {
     cursor: pointer;
 }
 
-/* Sidebar */
+
 
 .portfolio-sidebar {
     background-color: white;
@@ -267,7 +267,7 @@ body {
     border-radius: 10px;
 }
 
-/* Footer */
+
 
 .portfolio-footer {
     background-color: #222;
