@@ -14,7 +14,7 @@ For the navigation links, I used Flexbox again and added gap to create equal spa
 
 https://dima-it.github.io/webassik2/#
 
-![Task 0 Screenshot](screenshots/task0.png)
+
 
 ---
 
