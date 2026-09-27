@@ -1,9 +1,8 @@
-# Assignment 2 - Advanced CSS (Flexbox & Grid)
+ Assignment 2 - Advanced CSS (Flexbox & Grid)
 
-**Name:** [Your Name]
-**Group:** [Your Group]
 
-## Task 0 - Navigation Bar
+
+Task 0 - Navigation Bar
 
 In this task, I created a navigation bar using Flexbox.
 
@@ -13,13 +12,13 @@ Then, I used justify-content: space-between to create space between the logo and
 
 For the navigation links, I used Flexbox again and added gap to create equal space between the links.
 
-### Result
+https://dima-it.github.io/webassik2/#
 
 ![Task 0 Screenshot](screenshots/task0.png)
 
 ---
 
-## Task 1 - Card Row
+Task 1 - Card Row
 
 In this task, I created three cards for Marvel movies.
 
@@ -34,7 +33,7 @@ I also added a hover effect. When the mouse is placed over a card, the card move
 
 ---
 
-## Task 2 - Page Layout with Grid Areas
+ Task 2 - Page Layout with Grid Areas
 
 In this task, I created a page layout using CSS Grid.
 
@@ -49,7 +48,7 @@ I also used grid-template-areas` to define the position of each section. The hea
 
 ---
 
-## Task 3 - Image Gallery
+Task 3 - Image Gallery
 
 In this task, I created a Marvel image gallery using CSS Grid.
 
@@ -66,7 +65,7 @@ I also added a hover effect for the captions. The caption is hidden normally, bu
 
 ---
 
-## Task 4 - Portfolio Page
+Task 4 - Portfolio Page
 
 In this task, I created a Marvel portfolio page and combined Flexbox and CSS Grid.
 
@@ -82,7 +81,7 @@ Finally, I added a footer at the bottom of the portfolio page.
 
 ---
 
-## Summary
+
 
 In this assignment, I practiced using Flexbox and CSS Grid to create different website layouts. I used Flexbox for navigation bars, cards, and alignment of elements. I used CSS Grid for page layouts and the image gallery.
 
